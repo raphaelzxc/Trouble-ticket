@@ -1,0 +1,32 @@
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\ManageEngine Service.exe.config
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\ManageEngine Service.exe
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\ManageEngine Service.pdb
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\ManageEngine Service.xml
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Management.vbprojAssemblyReference.cache
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Management.vbproj.ResolveComReference.cache
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.DeleteUser.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.EditUser.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.NewRequest.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.AdminForm.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.Login.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.LoginForm.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.Resources.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.NewUser.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.Requester.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.ShowRecords.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.UserForm1.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Management.vbproj.GenerateResource.cache
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\ManageEngine Service.exe
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\ManageEngine Service.xml
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\ManageEngine Service.pdb
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.Frontpage.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.FrmSuccess.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.FrmInfo.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.FrmResponse.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Management.vbproj.CoreCompileInputs.cache
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.ChangePassword.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.CreateSolution.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.UpdateSolution.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.FindSolution.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.An.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.UpdateAn.resources

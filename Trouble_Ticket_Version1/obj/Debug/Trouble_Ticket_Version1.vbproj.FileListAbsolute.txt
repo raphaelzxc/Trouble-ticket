@@ -1,0 +1,35 @@
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\Trouble_Ticket_Version1.exe.config
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\Trouble_Ticket_Version1.exe
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\Trouble_Ticket_Version1.pdb
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\Trouble_Ticket_Version1.xml
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.vbprojAssemblyReference.cache
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.Resources.resources
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.vbproj.GenerateResource.cache
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.vbproj.CoreCompileInputs.cache
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.exe
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.xml
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.pdb
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.LoginForm.resources
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.AdminForm.resources
+C:\Users\GOD IS LOVE\source\repos\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.UserForm.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\Trouble_Ticket_Version1.exe.config
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\Trouble_Ticket_Version1.exe
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.vbprojAssemblyReference.cache
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.AdminForm.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.LoginForm.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.Resources.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.vbproj.GenerateResource.cache
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.exe
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.xml
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.pdb
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\Trouble_Ticket_Version1.pdb
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\bin\Debug\Trouble_Ticket_Version1.xml
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.ShowRecords.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.NewUser.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.EditUser.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.DeleteUser.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.Login.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.vbproj.ResolveComReference.cache
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.NewRequest.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.UserForm1.resources
+C:\Users\Super Admin\Documents\Trouble_Ticket_Version1\Trouble_Ticket_Version1\obj\Debug\Trouble_Ticket_Version1.Requester.resources
